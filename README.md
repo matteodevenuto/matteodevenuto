@@ -9,7 +9,7 @@ I am a Forex Trader and Ambassador at [Falcon FX](https://falconfx.com), I've be
 * 🌍  I'm based in Monaco 🇲🇨
 * 🖥️  See my portfolio at [My Portfolio](https://matteodevenuto.com)
 * ✉️  You can contact me at [business@matteodevenuto.com](mailto:business@matteodevenuto.com)
-* 🚀  I'm currently working on [E-Commerce Website](https://crwnclothing-project.herokuapp.com/)
+* 🚀  I'm currently working on [E-Commerce Website](https://crwn-clothing-site.netlify.app/)
 * 🧠  I'm learning React with [ZTM: Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
 
 ### Skills
