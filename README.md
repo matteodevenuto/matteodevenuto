@@ -4,7 +4,7 @@ Hi 👋 My name is Matteo De Venuto
 Trader 
 -----------------------------
 
-I am a Forex Trader and Ambassador at [Falcon FX](https://falconfx.com), I've been learning to code for the past few months using various online courses.
+I am a Forex Trader and Ambassador at [Falcon FX](https://falconfx.com), I've been learning to code with various online courses.
 
 * 🌍  I'm based in Monaco 🇲🇨
 * 🖥️  See my website [here](https://matteodevenuto.com)
