@@ -10,7 +10,7 @@ I am a Forex Trader and Ambassador at [Falcon FX](https://falconfx.com), I've be
 * 🖥️  See my website [here](https://matteodevenuto.com)
 * ✉️  You can contact me at [business@matteodevenuto.com](mailto:business@matteodevenuto.com)
 * 🚀  I'm currently working on a [Twitter Clone](https://github.com/matteodevenuto/twitter-clone)
-* 🧠  I'm learning React with [ZTM: Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
+* 🧠  I'm learning: [ZTM: Complete Machine Learning & Data Science Bootcamp 2023](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery)
 
 ### Skills
 
