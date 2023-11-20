@@ -1,4 +1,4 @@
-Hi 👋 My name is Matteo De Venuto
+Hi, my name is Matteo De Venuto
 =================================
 
 Trader 
