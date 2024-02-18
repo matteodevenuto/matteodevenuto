@@ -1,7 +1,7 @@
 Hi, my name is Matteo De Venuto
 =================================
 
-I'm a Founder at [Granbras Consulting](https://granbrasconsulting.mc), a Forex Trader and Ambassador at [Falcon FX](https://falconfx.com), and I've been learning to code with various online courses.
+I'm a Founder at [Granbras Consulting](https://granbrasconsulting.mc), a Forex Trader and Ambassador at [Falcon FX](https://falconfx.com/?url=17340), and I've been learning to code with various online courses.
 
 * 🌍  I'm based in Monaco 🇲🇨
 * 🖥️  See my website [here](https://matteodevenuto.com)
