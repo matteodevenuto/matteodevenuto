@@ -1,13 +1,13 @@
 Hi, my name is Matteo De Venuto
 =================================
 
-I'm a Founder at [Granbras Consulting](https://granbrasconsulting.mc), a Forex Trader and Ambassador at [Falcon FX](https://falconfx.com/?url=17340), and I've been learning to code with various online courses.
+I'm a Founder at [Granbras Consulting](https://granbrasconsulting.mc) and a Forex Trader and Ambassador at [Falcon FX](https://falconfx.com/?url=17340).
+
+I'm now working on my Forex Position Size Calculator app called [Forexizer](https://forexizer.app) which is in Testing on both IOS and Android
 
 * 🌍  I'm based in Monaco 🇲🇨
 * 🖥️  See my website [here](https://matteodevenuto.com)
 * ✉️  You can contact me at [business@matteodevenuto.com](mailto:business@matteodevenuto.com)
-* 🚀  I'm currently working on: [AI_Course](https://github.com/matteodevenuto/AI_Course)
-* 🧠  I'm learning: [Artificial Intelligence A-Z](https://www.udemy.com/course/artificial-intelligence-az/)
 
 ### Skills
 
@@ -22,9 +22,7 @@ I'm a Founder at [Granbras Consulting](https://granbrasconsulting.mc), a Forex T
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-</p>
+
 
 
 ### Socials
