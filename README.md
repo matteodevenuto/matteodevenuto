@@ -7,7 +7,7 @@ I'm now working on my Forex Position Size Calculator app called [Forexizer](http
 
 * 🌍  I'm based in Monaco 🇲🇨
 * 🖥️  See my website [here](https://matteodevenuto.com)
-* ✉️  You can contact me at [business@matteodevenuto.com](mailto:business@matteodevenuto.com)
+* ✉️  You can contact me [here](mailto:github@matteodevenuto.com)
 
 ### Skills
 
