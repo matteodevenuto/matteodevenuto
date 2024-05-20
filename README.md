@@ -3,7 +3,7 @@ Hi, my name is Matteo De Venuto
 
 I'm a Founder at [Granbras Consulting](https://granbrasconsulting.mc) and a Forex Trader and Ambassador at [Falcon FX](https://falconfx.com/?url=17340).
 
-I'm now working on my Forex Position Size Calculator app called [Forexizer](https://forexizer.app) which is in Testing on both IOS and Android
+I'm now working on my Forex Position Size Calculator app called [Forexizer](https://forexizer.app) which is in Testing on both iOS and Android
 
 * 🌍  I'm based in Monaco 🇲🇨
 * 🖥️  See my website [here](https://matteodevenuto.com)
