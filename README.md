@@ -5,6 +5,8 @@ I'm a Founder at [Granbras Consulting](https://granbrasconsulting.mc) and a Fore
 
 I'm working on my Position Size Calculator app called [Forexizer](https://forexizer.app) which is now live on the App Store and Google Play Store.
 
+I'm also working on [RouteGen](https://x.com/routegen), which is coming soon.
+
 * 🌍  I'm based in Monaco 🇲🇨
 * 🖥️  See my website [here](https://matteodevenuto.com)
 * ✉️  You can contact me [here](mailto:github@matteodevenuto.com)
