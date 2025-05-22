@@ -31,4 +31,4 @@ I'm working on my Position Size Calculator app called [Forexizer](https://forexi
 
 ### Badges
 
-<a href="https://github.com/matteodevenuto" align="left"><img src="https://github-readme-stats-psi-eight-87.vercel.app/api/top-langs/?username=matteodevenuto&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=jupyter%20notebook" alt="Top Languages" /></a>
+<a href="https://github.com/matteodevenuto" align="left"><img src="https://github-readme-stats-psi-eight-87.vercel.app/api/top-langs/?username=matteodevenuto&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=jupyter%20notebook,html" alt="Top Languages" /></a>
