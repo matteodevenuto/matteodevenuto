@@ -28,7 +28,7 @@ A fast and straightforward position size calculator for forex traders.
 
 ## Links
 
-[Blog](https://forexizer.app/blog) ·
+[Blog](https://matteodevenuto.com) ·
 [LinkedIn](https://linkedin.com/in/matteodevenuto) ·
 [YouTube](https://youtube.com/@matteodevenuto) ·
 [Instagram](https://instagram.com/matteodevenuto) ·
