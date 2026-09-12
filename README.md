@@ -8,7 +8,7 @@ I build tools that help traders manage risk, understand their performance, and m
 
 ### Forexizer Calculator
 
-Cross-platform position-sizing app for traders managing multiple accounts and asset classes. I built and shipped the mobile apps, backend services, subscriptions, account sync, and macOS support. The product has passed 700 downloads across iOS, Android, and macOS.
+Cross-platform position-sizing app for traders managing multiple accounts and asset classes. I built and shipped the mobile apps, backend services, subscriptions, account sync, and macOS support. The product has surpassed 700 downloads across iOS, Android, and macOS.
 
 <p align="center">
   <a href="https://forexizer.app/calculator">
