@@ -38,11 +38,14 @@ A trading workspace for account management, risk limits, performance analytics, 
 
 ## Open source
 
+- [Corsair Cooling for Omarchy](https://github.com/matteodevenuto/omarchy-corsair-cooling) — Commander CORE telemetry and guarded cooling presets in the Omarchy bar.
 - [Calendar Clock for Omarchy](https://github.com/matteodevenuto/omarchy-calendar-clock) — calendar, life-progress, and iCalendar events in the Omarchy bar.
 - [F1 Sessions for Omarchy](https://github.com/matteodevenuto/omarchy-f1-sessions) — race-weekend schedules and live session countdowns.
 
 ## Writing
 
+- [I Couldn't Make Omarchy Wake Up on My 2017 MacBook Pro](https://matteodevenuto.com/blog/2026/i-couldnt-make-omarchy-wake-up-on-my-2017-macbook-pro)
+- [Why My MacBook's T1 Stopped Working After Installing Omarchy](https://matteodevenuto.com/blog/2026/why-my-macbooks-t1-stopped-working-after-installing-omarchy)
 - [How I Run Live Exchange Rates on a Cheap API Tier](https://matteodevenuto.com/blog/2026/how-i-run-live-exchange-rates-on-a-cheap-api-tier)
 - [The Bug That Locked Out Paying Customers](https://matteodevenuto.com/blog/2026/the-bug-that-locked-out-paying-customers)
 
