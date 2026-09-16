@@ -44,6 +44,7 @@ A trading workspace for account management, risk limits, performance analytics, 
 
 ## Writing
 
+- [The RGB Flashing Dead End in My Corsair Commander CORE Plugin](https://www.matteodevenuto.com/blog/2026/corsair-commander-core-rgb-flashing)
 - [I Couldn't Make Omarchy Wake Up on My 2017 MacBook Pro](https://matteodevenuto.com/blog/2026/i-couldnt-make-omarchy-wake-up-on-my-2017-macbook-pro)
 - [Why My MacBook's T1 Stopped Working After Installing Omarchy](https://matteodevenuto.com/blog/2026/why-my-macbooks-t1-stopped-working-after-installing-omarchy)
 - [How I Run Live Exchange Rates on a Cheap API Tier](https://matteodevenuto.com/blog/2026/how-i-run-live-exchange-rates-on-a-cheap-api-tier)
